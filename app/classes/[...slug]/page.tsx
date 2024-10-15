@@ -14,7 +14,7 @@ import {
 } from "@/components/ui/dialog";
 import { DemoClassForm } from "@/components/forms/demo-class-form";
 import { Button } from "@/components/ui/button";
-import { onDemoFormAction } from "@/app/api/demoFormAction/route";
+import { onDemoFormAction } from "@/app/api/demoFormAction/action";
 import { Container } from "@/components/custom-ui/container";
 
 interface ClassesPageProps {
