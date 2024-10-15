@@ -5,7 +5,7 @@ import Phone from "../styled/phone";
 import SocialLinks from "../styled/social-links";
 import { Heading } from "../custom-ui/heading";
 import { ContactForm } from "../forms/contact-form";
-import { onFormAction } from "@/app/api/formAction/route";
+import { onFormAction } from "@/app/api/formAction/action";
 
 export default function Contact() {
   return (
